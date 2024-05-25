@@ -1,0 +1,23 @@
+md server
+
+cd server
+
+npm init -y
+
+npm i express cors
+
+npm i nodemon -D
+
+npm start
+
+----------------------------------------
+
+npm create vite@latest client
+
+React
+
+Javascript
+
+npm i axios
+
+npm run dev
